@@ -1,0 +1,6 @@
+export const GET_NEWS = "GET_NEWS";
+export const GET_NEWS_ITEM = "GET_NEWS_ITEM";
+export const CREATE_NEWS_ITEM = "CREATE_NEWS_ITEM";
+export const UPDATE_NEWS_ITEM = "UPDATE_NEWS_ITEM";
+export const DELETE_NEWS_ITEM = "DELETE_NEWS_ITEM";
+export const PAGINATE_NEWS = "PAGINATE_NEWS";
